@@ -9,7 +9,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>CakeCrusher's website</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>I am trying to grt this site to work without classes</p>
